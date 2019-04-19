@@ -1,0 +1,1 @@
+This is a file i created in order to be added to repository in educational purposes. OpenClassrooms Project 2 Activities
