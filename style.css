@@ -1,0 +1,126 @@
+/*This is a Comment:
+Here are the requirements for the Project1:
+1) A custom background-color on the body element (to change the background color of the page)
+2) At least 2 custom color properties (to change the colors of text)
+3) A specified font-family, either for the whole page or per element
+4) Either one font-size property OR one text-transform property
+5) A text-decoration property on your link elements; */
+
+
+body {
+	background-color: #FEFFD8;
+	display: block;
+	color: #090D51;
+	/*position: relative;*/
+}
+.both_blocks {
+	margin: 10px relative;
+	padding: 2em;
+
+}
+.left_block {
+	background-color: #E1DED6;
+	padding: 16px;
+
+	
+}
+.right_block {
+	background-color: #FEFFD8;
+	padding-left: 1em;
+}
+
+#face_photo {
+	height: 10em;
+	width: 10em;
+	border-radius: 50%;
+	border-style: dashed;
+	position: center;
+	margin-bottom: 1.8em;
+}
+
+
+h1 {
+	color: #090D51;
+	font-family:  'PT Sans', sans-serif;
+	margin: 0.9em;
+	font-size:2.4em; 	
+}
+
+h1:hover {
+	font-size: 3em;
+	font-weight: 900;
+
+}
+
+#prof_title {
+	font-family: monospace, sans-serif;
+	color: #4200F1;
+}
+
+h2 {
+	color : #E1DED6;
+	font-size: 2em relative;
+	font-family: Helvetica, Arial, sans-serif;
+	font-style: none;
+	background-color: #090D51;
+	margin-top: 10px relative;
+	margin-bottom: 10px relative;
+}
+h2:hover {
+	background-color: #847E88;
+}
+
+h3 {
+	font-family: 'PT Sans', 'Lato', sans-serif;
+	font-weight: 700;
+}
+
+i {
+	margin: 0.5em;
+}
+
+hr {
+	color: #F0B1E2
+}
+
+
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: #7F2F18;
+}
+/* selected link */
+a:active {
+  color: blue;
+}
+
+
+.years_column:hover {
+	color: #E83E0D; 
+}
+
+.reference_block  {
+	padding-bottom: 2em;
+}
+
+.left_h2 {
+	font-family: 'Noto Sans', sans-serif;
+}
+
+.my_icons:hover {
+	font-size: 1.2em;
+	margin: 0.01em;
+}
+
+#list_of__learninng_sources {
+	margin-left: 3em;
+}
